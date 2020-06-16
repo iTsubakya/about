@@ -1,22 +1,22 @@
-@import 'css/chem-elements.css';
-@import 'css/footer.css';
-@import 'css/header.css';
-@import 'css/identities.css';
-@import 'css/intro.css';
-@import 'css/labels.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
 
 /*-------------------------------------------------------*/
-@import 'css/fontawesome-free/css/fontawesome.css';
-@import 'css/fontawesome-free/css/brands.css';
-@import 'css/fontawesome-free/css/regular.css';
-@import 'css/fontawesome-free/css/solid.css';
-@import 'css/unsemantic/assets/stylesheets/unsemantic-grid-responsive.css';
-@import 'css/unsemantic/assets/stylesheets/unsemantic-grid-responsive.css';
-@import 'css/fontawesome-free/css/all.css';
-@import 'assets/bootstrap/css/bootstrap.min.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/css/chem-elements.css';
+@import 'https://cdn.jsdelivr.net/gh/iTsubakya/about/assets/bootstrap/css/bootstrap.min.css';
 /*-------------------------------------------------------*/
 body {
-    background: url(./assets/images/plus.svg) #044f67;
+    background: url(https://cdn.jsdelivr.net/gh/iTsubakya/about/assets/images/plus.svg) #044f67;
     background-size: 8em;
 
     font-size: 1em;
@@ -37,7 +37,7 @@ html {
     padding: 0;
 }
 .b-cover{
-       background: url(./assets/images/container-background.svg) grey;
+       background: url(https://cdn.jsdelivr.net/gh/iTsubakya/about/assets/images/container-background.svg) grey;
     background-size: cover;
 }
 .b-white{
